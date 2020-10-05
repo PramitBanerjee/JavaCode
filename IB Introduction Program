@@ -10,7 +10,7 @@ public class IB_Intro {
         System.out.println("Hello IB Students!");
         System.out.println("What is your name?");
         
-        name = in.next("");
+        name = in.next();
         System.out.println("My name is "+name);
         
     }
